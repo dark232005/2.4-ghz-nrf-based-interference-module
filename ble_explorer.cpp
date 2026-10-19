@@ -17,7 +17,7 @@ bool BLEExplorer::bleInitialized = false;
 
 void BLEExplorer::init() {
   if (!bleInitialized) {
-    BLEDevice::init("RF-NetToolkit");
+    BLEDevice::init(PROJECT_NAME);
     bleInitialized = true;
   }
 }

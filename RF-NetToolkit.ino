@@ -47,7 +47,7 @@ void setup() {
   delay(100);
 
   Serial.println("\n==========================================");
-  Serial.println("  RF-NetToolkit v1.0.0");
+  Serial.println("  2.4 GHz NRF Based Interference Module v1.0.0");
   Serial.println("  Developed by Swarnim Pratap Singh");
   Serial.println("==========================================\n");
 

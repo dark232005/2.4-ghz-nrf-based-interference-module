@@ -26,8 +26,9 @@
 // ============================================================================
 // PROJECT METADATA
 // ============================================================================
-#define PROJECT_NAME        "RF-NetToolkit"
-#define PROJECT_SUBTITLE    "Wireless Diagnostic Suite"
+#define PROJECT_NAME        "2.4G NRF Module"
+#define PROJECT_FULL_NAME   "2.4 GHz NRF Based Interference Module"
+#define PROJECT_SUBTITLE    "Interference & Spectrum"
 #define PROJECT_VERSION     "v1.0.0"
 #define PROJECT_AUTHOR      "Swarnim Pratap Singh"
 #define PROJECT_BUILD_YEAR  "2026"

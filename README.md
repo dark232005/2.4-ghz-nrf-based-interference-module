@@ -1,5 +1,5 @@
-# RF-NetToolkit 📡
-### ESP32 Wireless Protocol, Spectrum & Network Analysis Suite
+# 2.4 GHz NRF Based Interference Module 📡
+### ESP32 Wireless Protocol, Spectrum & Interference Analysis Suite
 
 **Developer**: **Swarnim Pratap Singh**  
 **Field**: Computer Networks & Wireless Communications  
@@ -10,11 +10,11 @@
 
 ## 📌 Overview
 
-**RF-NetToolkit** is an embedded wireless diagnostic and protocol analysis suite built from scratch for the ESP32 microcontroller. The system combines software-defined 2.4 GHz spectrum scanning, 802.11 b/g/n Wi-Fi environment mapping, Bluetooth Low Energy (BLE) discovery, and a complete Computer Networks Data Link Layer protocol verification engine (CRC-16, Internet Checksum, and Hamming Codes).
+**2.4 GHz NRF Based Interference Module** is an embedded wireless diagnostic and protocol analysis suite built from scratch for the ESP32 microcontroller. The system combines software-defined 2.4 GHz spectrum scanning, 802.11 b/g/n Wi-Fi environment mapping, Bluetooth Low Energy (BLE) discovery, and a complete Computer Networks Data Link Layer protocol verification engine (CRC-16, Internet Checksum, and Hamming Codes).
 
 ```
                       ┌─────────────────────────────────┐
-                      │          RF-NetToolkit          │
+                      │ 2.4 GHz NRF Interference Module │
                       │    By Swarnim Pratap Singh      │
                       └────────────────┬────────────────┘
                                        │
